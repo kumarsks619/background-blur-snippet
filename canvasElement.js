@@ -1,4 +1,4 @@
-;<canvas
+<canvas
     id={elementID}
     width={width}
     height={height}
